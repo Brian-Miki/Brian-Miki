@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brian-Miki
-- 👀 I’m interested in Product Management
-- 🌱 I’m currently learning about data analysis and the SDLC
-- 💞️ I’m looking to collaborate on products where we can utilize a PLG strategy
+- 👀 I’m interested in Product Management and Product Led Growth specifically
+- 🌱 I’m currently learning how to code and develop my analytical skills
+- 💞️ I’m looking to build a startup and understand multiple aspects of software development
 - 📫 How to reach me bmiki5508@gmail.com or on Linkedin
 
 <!---

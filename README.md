@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Brian - a passionate CS + Business student! 💻
 
-I'm currently studying Computer Science and Business and have been applying my in-class learnings to the co-ops and passions projects I have taken on.
+I'm currently studying Computer Science and Business and have been applying my in-class learnings to the co-ops and passions projects I have taken on. Previously I have worked as an Accountant, Product Manager (Unity) and now a Consultant/Product Manager at Teifi Digital
 
 ## 📫 Let's Connect!
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmiki5508@gmail.com)

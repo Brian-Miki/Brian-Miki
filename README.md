@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Brian! 💻
 
-Current focuses include:
+## Current focuses include:
 ### 1. Learning more about AI - evals, observability and applied AI
 ### 2. Experimenting with businesses - doing some contract and consulting work helping businesses adopt AI
 ### 3. Figuring out my next play

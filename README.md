@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Brian! 💻
 
 ## Current focuses include:
-### 1. Learning more about AI - evals, observability and applied AI
-### 2. Experimenting with businesses - doing some contract and consulting work helping businesses adopt AI
-### 3. Figuring out my next play
+1. Learning more about AI - evals, observability and applied AI
+2. Experimenting with businesses - doing some contract and consulting work helping businesses adopt AI
+3. Figuring out my next play
 
 ## 📫 Let's Connect!
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmiki5508@gmail.com)

@@ -11,8 +11,8 @@
 
 ## 🌟 My current projects
 
-https://www.morningcommute.app/ (AI Voice Email Agent)
-https://www.pulpitai.com/ (AI Marketing Tech for Churches - Acquired by Subplash)
+- https://www.morningcommute.app/ (AI Voice Email Agent)
+- https://www.pulpitai.com/ (AI Marketing Tech for Churches - Acquired by Subplash)
 
 
 

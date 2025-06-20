@@ -2,7 +2,7 @@
 
 ## Current focuses include:
 1. Learning more about AI - evals, observability and applied AI
-2. Experimenting with businesses - doing some contract and consulting work helping businesses adopt AI
+2. Experimenting with businesses - build PulpitAI in a team of 4 and some side projects trying to growth hack
 3. Figuring out my next play
 
 ## 📫 Let's Connect!
